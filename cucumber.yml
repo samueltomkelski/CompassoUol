@@ -1,0 +1,7 @@
+# Plataform
+default: -p chrome --publish-quiet
+
+# Browsers
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+internet_explorer: BROWSER=internet_explorer
